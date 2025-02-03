@@ -5,7 +5,7 @@ import Sidebar from "./components/Sidebar/Sidebar.tsx";
 function App() {
   return (
     <>
-    {/* <Header/> */}
+    <Header/>
       <Sidebar />
     </>
   )
